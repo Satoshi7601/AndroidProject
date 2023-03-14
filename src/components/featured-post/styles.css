@@ -1,0 +1,41 @@
+.featured-post-container{
+
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(55, 55, 55);
+}
+
+.featured-post-imagem {
+
+    border-radius: 6px;
+    width: 40vw;
+    height: 25vw;
+    object-fit: cover;
+    /* Tira o achatamento da imagem */
+
+}
+
+.featured-post-container div:nth-child(2) {
+
+    max-width: 40vw;
+
+}
+.featured-post-date {
+
+    font-size: 0.8rem;
+
+
+}
+.featured-post-title {
+
+    margin-top: 20px;
+    color: rgb(58, 58, 58);
+
+}
+
+.featured-post-description {
+
+    margin-top: 20px;
+
+}

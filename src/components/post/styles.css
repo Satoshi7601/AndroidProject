@@ -1,0 +1,42 @@
+.post-container{
+
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: rgb(55, 55, 55);
+}
+
+.post-imagem {
+
+    border-radius: 6px;
+    width: 35vw;
+    height: 20vw;
+    object-fit: cover;
+    /* Tira o achatamento da imagem */
+
+}
+
+.post-container div:nth-child(2) {
+
+    max-width: 35vw;
+
+}
+.post-date {
+
+    font-size: 0.8rem;
+
+
+}
+.post-title {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: rgb(58, 58, 58);
+
+}
+
+.post-description {
+
+    margin-top: 20px;
+
+}

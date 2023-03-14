@@ -1,0 +1,16 @@
+.author-profile{
+
+display: flex;
+margin-top: 40px;
+
+}
+
+.author-profile-imagem{
+
+    width: 100px;
+    border-radius: 8px;
+    object-fit: cover;
+    height: 75px;
+    margin-right: 15px;
+
+    }
