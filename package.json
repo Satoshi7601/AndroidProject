@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Satoshi7601.github.io/NewBlog",
+  "homepage": "my-app/",
   
   
   "dependencies": {
