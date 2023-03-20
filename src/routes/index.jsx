@@ -19,6 +19,7 @@ export default function AplicationRotes() {
 
    <Route path="/post" element={<h1>Post</h1>}  />{/* path="" usado para passar um string */}
 
+
    </Routes>
     
     </BrowserRouter>
