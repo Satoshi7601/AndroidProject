@@ -22,7 +22,7 @@ export default function NavBar(){
 
     </div>
 
-    <div>
+    <div className='NavLinks'>
             <Link className='nav-link' to='/'>Home</Link>
             
             <Link className='nav-link' to='/post'>Sobre</Link>

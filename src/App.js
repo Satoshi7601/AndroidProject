@@ -1,7 +1,7 @@
 import Rotes from './routes';
 import Footer from './components/footer';
 
-import Home from './Pages/home';
+
 
 import './App.css';
 
@@ -11,8 +11,10 @@ function App() {
     
     <div className='style'>
     <Rotes></Rotes>
-
     </div>
+    
+
+   
 
     <Footer></Footer>
     

@@ -14,11 +14,13 @@ export default function post({ post}){
     
             <div className='post-container'> 
 
+            <Link to={'#'}>
             <div>
 
             <img className='post-imagem' src={post.image}></img>
             
             </div>
+            </Link>
         <div>
 
         
@@ -29,10 +31,13 @@ export default function post({ post}){
             {post.title} </p>
             </Link>
 
+            <Link to={'#'}>
             <p className='post-description'>
                    {post.description}
             </p>
-           
+
+            </Link>
+
             </div>
             </div>
     

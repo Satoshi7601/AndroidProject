@@ -13,12 +13,16 @@ export default function AplicationRotes() {
     <BrowserRouter>
     
     <NavBar></NavBar>
+   
    <Routes>
 
    <Route path="/" element={<Home/>}  />{/* path="" usado para passar um string */}
 
    <Route path="/post" element={<h1>Post</h1>}  />{/* path="" usado para passar um string */}
 
+   <Route path="/contact" element={<h1>Contato</h1>}></Route>
+
+   <Route path="/Culture" element={<h1>Cultura</h1>}></Route>
 
    </Routes>
     

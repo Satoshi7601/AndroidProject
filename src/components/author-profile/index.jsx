@@ -20,7 +20,7 @@ export default function AuthorProfile(){
             <div>
                 <h3>Raphael Bellagama</h3>
                
-                <p>FDesenvolver Junior</p>
+                <p>Desenvolver Front-End Junior</p>
             
                 </div>
             </div>
