@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactBlog/static/css/main.9e6cb898.css",
+    "main.js": "/ReactBlog/static/js/main.2655ece7.js",
+    "static/media/futaba.jpg": "/ReactBlog/static/media/futaba.a59982c226f2538c8087.jpg",
+    "index.html": "/ReactBlog/index.html",
+    "main.9e6cb898.css.map": "/ReactBlog/static/css/main.9e6cb898.css.map",
+    "main.2655ece7.js.map": "/ReactBlog/static/js/main.2655ece7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e6cb898.css",
+    "static/js/main.2655ece7.js"
+  ]
+}
